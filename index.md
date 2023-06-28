@@ -16,6 +16,10 @@ The place to connect with fellow users, ask questions, share ideas, and more!
 
 ## Certinia Open Source Projects
 
-[github.com/certinia](https://github.com/certinia) contains a number of general Open Source repositories, including the popular [Apex Log Analyzer for Salesforce](https://github.com/certinia/debug-log-analyzer).
+**[github.com/certinia](https://github.com/certinia)**
 
-We have also made a number of libraries available which were produced primarily to support Certinia's own developer tooling needs, and have been adopted by other Apex tooling projects: [github.com/apex-dev-tools](https://github.com/apex-dev-tools)
+A number of general Open Source repositories, including the popular [Apex Log Analyzer for Salesforce](https://github.com/certinia/debug-log-analyzer).
+
+**[github.com/apex-dev-tools](https://github.com/apex-dev-tools)**
+
+A number of libraries available which were produced primarily to support Certinia's own developer tooling needs, and have been adopted by other Apex tooling projects.
