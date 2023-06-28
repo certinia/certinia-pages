@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### Another Page Heading
+# Another Page Heading
 
 ## Another Page Subheading
 

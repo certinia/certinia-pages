@@ -2,9 +2,11 @@
 layout: default
 ---
 
-### Index Page Heading
+# Index Page Heading
 
-## Index Page Subheading
+## Index Page Heading
+
+### Index Page Heading
 
 
 Index page
