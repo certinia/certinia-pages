@@ -2,8 +2,7 @@
 layout: default
 ---
 ![Certinia](/assets/images/certinia-logo-1.svg)
-
-# Certinia for Developers
+for Developers
 
 ## Certinia Product Resources
 
