@@ -1,5 +1,4 @@
 title: Certinia for Developers
-description: Resources for developing with Certinia products
 
 exclude:
   - node_modules
